@@ -1,0 +1,14 @@
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\bin\Debug\netstandard2.0\App01_CONSULTARCEP.deps.json
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\bin\Debug\netstandard2.0\App01_CONSULTARCEP.dll
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\bin\Debug\netstandard2.0\ref\App01_CONSULTARCEP.dll
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\bin\Debug\netstandard2.0\App01_CONSULTARCEP.pdb
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\App01_CONSULTARCEP.csprojAssemblyReference.cache
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\App01_CONSULTARCEP.AssemblyInfoInputs.cache
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\App01_CONSULTARCEP.AssemblyInfo.cs
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\App01_CONSULTARCEP.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\App01_CONSULTARCEP.dll
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\ref\App01_CONSULTARCEP.dll
+C:\Users\eduar\Xamarim Forms\Correios\App01_CONSULTARCEP\App01_CONSULTARCEP\App01_CONSULTARCEP\obj\Debug\netstandard2.0\App01_CONSULTARCEP.pdb
